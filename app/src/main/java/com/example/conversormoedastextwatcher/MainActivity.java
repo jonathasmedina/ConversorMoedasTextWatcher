@@ -27,7 +27,6 @@ public class MainActivity extends AppCompatActivity {
         1 Dólar americano igual a 5,17 Real brasileiro
         1 Dólar americano igual a 7.310,79 Guarani paraguaio
         1 Dólar americano igual a 0,95 Euro
-
      */
 
     @Override
@@ -120,7 +119,6 @@ public class MainActivity extends AppCompatActivity {
                     }
                     else
                         editTextEuro.setText("");
-
                 }
                 dolar = false;
             }
